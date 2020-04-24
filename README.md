@@ -1,2 +1,2 @@
 # Matrix-Counting---Macierze
-Dodawanie 
+Generowanie, wyświetlanie oraz dodawanie macierzy matematycznych.
